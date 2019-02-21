@@ -1,2 +1,2 @@
 # Note
-langkah langkah tersedia di notepad catatan
+langkah langkah tersedia di notepad catatan.txt
