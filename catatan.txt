@@ -1,0 +1,6 @@
+CBT
+Penjelasan:
+1. report_hotel = database
+2. import database ke xampp dengan nama database nya "report_hotel"
+3. simpan semua file di dlam folder di htdocs xampp kecuali database
+4. jalan kan web sesuai "localhost/sesuai_nama_foldernya_yg_di_htdocs"
