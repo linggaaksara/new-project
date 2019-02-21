@@ -1,2 +1,2 @@
-# new-project
-project petama
+# Note
+langkah langkah tersedia di notepad catatan
